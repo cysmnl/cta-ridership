@@ -1,9 +1,11 @@
 # Chicago Ridership
 
 **Required Package Manager**
+
 * conda (https://docs.anaconda.com/anaconda/install/)
 
 **Installation**
+
 Install conda environment
 ```
 conda env create -f conda_setup.yml
@@ -18,4 +20,5 @@ jupyter lab
 ```
 
 **Analysis**
+
 All work can be found in this notebook: `analysis.ipynb`
